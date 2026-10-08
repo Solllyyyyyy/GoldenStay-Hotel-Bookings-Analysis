@@ -40,17 +40,17 @@ Which day category (weekday or weekend) records lower & higher booking volume?
 *Revenue distribution across channels is fairly balanced, but Corporate underperforms
 
 ## Recommendations
-* **Strengthen Weekend Demand**
+* **Strengthen Weekend Demand:**
 Introduce weekend packages (family, couple, staycation offers) to reduce weekday–weekend imbalance. Partner with event planners and wedding venues. 
 
-* **Improve Customer Satisfaction**
+* **Improve Customer Satisfaction:**
 Strengthen service quality, housekeeping standards, and response time. Implement post-stay feedback follow-ups to improve experience.
 
-* **Maximize High-Profit Room Types**
+* **Maximize High-Profit Room Types:**
 Maintain premium pricing to protect brand positioning. Offer value-added perks instead of price cuts (airport pickup, executive lounge access). Use slightly flexible pricing for Standard/Deluxe during low-demand periods. 
 Market Standard rooms for short-stay travelers and promote Deluxe rooms as “affordable luxury"
 
-* **Month Trend**
+* **Month Trend:**
 For weaker months, run targeted corporate promotions in March/April and May/July.
 Introduce early-bird conference packages
 
