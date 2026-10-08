@@ -54,7 +54,7 @@ Market Standard rooms for short-stay travelers and promote Deluxe rooms as “af
 For weaker months, run targeted corporate promotions in March/April and May/July.
 Introduce early-bird conference packages
 
-<img width="1164" height="657" alt="Screenshot 2026-10-08 033051" src="https://github.com/user-attachments/assets/5eebba23-c6dd-4ef0-a6b2-641a889bfa78" />
+<img width="1188" height="663" alt="Screenshot 2026-10-08 033538" src="https://github.com/user-attachments/assets/09aaf1ad-ecc8-42ef-8a96-e2f82ab558c2" />
 
 
 ## Presentation Slides
