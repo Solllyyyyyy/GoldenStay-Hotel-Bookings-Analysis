@@ -1,6 +1,7 @@
 # GoldenStay-Hotel-Bookings-Analysis
 
-<img width="1179" height="657" alt="Screenshot 2026-10-08 033007" src="https://github.com/user-attachments/assets/51dca53b-060c-4556-b9e0-b1ad885f8347" />
+<img width="1186" height="664" alt="Screenshot 2026-10-08 034002" src="https://github.com/user-attachments/assets/b848e67f-092a-4378-9042-c05a3a80d0a8" />
+
 
 
 # Project Overview
